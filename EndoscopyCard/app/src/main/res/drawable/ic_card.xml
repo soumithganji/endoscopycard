@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="394.241dp"
+    android:height="377.334dp"
+    android:viewportWidth="394.241"
+    android:viewportHeight="377.334">
+  <path
+      android:pathData="M14.923,216.852L273.727,35.468A17.002,17.002 100.698,0 1,297.408 39.633L383.508,162.483A17.002,17.002 100.698,0 1,379.343 186.164L120.539,367.548A17.002,17.002 105.384,0 1,96.858 363.383L10.758,240.533A17.002,17.002 102.423,0 1,14.923 216.852z"
+      android:fillColor="#d9d9d9"/>
+  <path
+      android:pathData="M13.923,201.852L272.727,20.468A17.002,17.002 100.698,0 1,296.408 24.633L382.508,147.483A17.002,17.002 100.698,0 1,378.343 171.164L119.539,352.548A17.002,17.002 105.384,0 1,95.858 348.383L9.758,225.533A17.002,17.002 102.423,0 1,13.923 201.852z"
+      android:fillColor="#ebebeb"/>
+  <path
+      android:pathData="M15.923,190.994L274.727,9.61A17.002,17.002 100.698,0 1,298.408 13.775L384.508,136.625A17.002,17.002 100.698,0 1,380.343 160.306L121.539,341.69A17.002,17.002 100.375,0 1,97.858 337.525L11.758,214.675A17.002,17.002 102.423,0 1,15.923 190.994z"
+      android:strokeWidth="1"
+      android:strokeColor="#00000000">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="-309.9456"
+          android:startX="170.82338"
+          android:endY="923.00665"
+          android:endX="183.71959"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFD3C0F9"/>
+        <item android:offset="1" android:color="#FFF362FE"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M16.21,191.404L275.014,10.019A16.502,16.502 99.192,0 1,297.999 14.062L384.099,136.912A16.502,16.502 99.192,0 1,380.056 159.896L121.252,341.28A16.502,16.502 99.192,0 1,98.268 337.238L12.167,214.388A16.502,16.502 99.192,0 1,16.21 191.404z"
+      android:strokeWidth="1"
+      android:fillColor="#00000000"
+      android:strokeColor="#707070"/>
+</vector>
